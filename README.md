@@ -154,6 +154,10 @@ Die Teamlogos, Spieldetails, Statistik-PDFs, Spielartikel und YouTube-Videos wer
 - MVPs mit Spielerinnenprofilen ergänzt; Spiel 3063 anhand der nachgelieferten MVP-Quellen vervollständigt
 - alle 63 auf den Spieldetailseiten verknüpften VBL-Artikel für 24 Spiele übernommen; die VBL weist für die Spiele 3040, 3054, 3110 und 3131 keinen Artikelblock aus
 - alle 28 Spielkacheln mit einem Kurzbericht versehen; bei den vier Spielen ohne VBL-Artikel aus den offiziellen Spieldaten zusammengefasst
+- Spieldetails, offiziellen Spielbericht und separate Spielstatistik je Spiel verlinkt; die VBL stellt für 3019 und 3131 keine Statistik-PDF bereit
+- Kurzberichte in der Darstellung auf 3–4 Sätze aus Bericht, Spieldaten und MVP-Auszeichnungen erweitert
+- Footer mit Copyright, Impressum und Datenschutz ergänzt
+- verbliebene Köln-Bezeichnungen in JavaScript und CSS auf neutrale ESA-Bezeichnungen umgestellt
 - 27 YouTube-Direktlinks hinterlegt
 - alle gelieferten Videos anhand ihrer öffentlichen YouTube-Titel den korrekten Spielen zugeordnet
 - Spiel 3045 als ohne verfügbares YouTube-Video gekennzeichnet
